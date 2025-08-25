@@ -16,7 +16,7 @@ and drafted an incident response report.
 - High-severity malware alerts
 
 ## 📑 Incident Response Report
-- [Download Word Version]INCIDENT RESPONSE REPORT (AutoRecovered).docx
+- [Download Word Version](report/incident_response_report.docx)
 
 
 ## 📷 Screenshots
