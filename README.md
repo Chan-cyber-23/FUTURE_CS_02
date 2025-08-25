@@ -16,7 +16,8 @@ and drafted an incident response report.
 - High-severity malware alerts
 
 ## 📑 Incident Response Report
-The full report is available [here](report/incident_response_report.pdf).
+- [Download Word Version](report/incident_response_report.docx)
+
 
 ## 📷 Screenshots
 Example dashboard & alerts:
